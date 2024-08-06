@@ -302,6 +302,11 @@ Start the Backend: Ensure the backend server is running. For production, you mig
 npm start
 ``
 
+## File Structure 
+
+![image](https://github.com/user-attachments/assets/b26186ba-4745-4477-a99e-5436143387df)
+
+
 ## Conclusion
 
 Following the instructions above, you should be able to set up both the development and production environments for this project. 
