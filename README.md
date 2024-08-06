@@ -4,6 +4,8 @@
 
 Guest is a room booking application designed for house owners who offer short-term accommodations and for customers looking to book rooms. The application provides an efficient way for house owners to manage their rooms and bookings while offering customers a seamless browsing and booking experience. Additionally, the application sends email notifications when a room is booked.
 
+
+
 ![image](https://github.com/user-attachments/assets/9f1d47c4-906c-4dae-bde6-857a5e6be97c)
 
 
