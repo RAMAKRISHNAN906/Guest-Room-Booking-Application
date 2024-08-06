@@ -24,8 +24,6 @@ These videos demonstrate the application’s user interface and functionality on
 - [Installation](#installation)
 - [Usage](#usage)
 - [Email Notifications](#email-notifications)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -293,23 +291,17 @@ Start the Backend: Ensure the backend server is running. For production, you mig
 npm start
 ``
 
-## Contributing
+## Conclusion
 
-We welcome contributions to improve the Gust Room Booking Application! To contribute:
+Following the instructions above, you should be able to set up both the development and production environments for this project. 
 
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a pull request.
+- **For Development**: Use the provided `npm` scripts to start the backend, frontend, and any additional services locally.
+- **For Production**: Build the frontend, start the backend server, and deploy the built frontend to your chosen hosting solution.
 
-Please ensure your code adheres to our coding standards and includes relevant tests.
+Make sure to configure any necessary environment variables and ensure your deployment environment is set up to handle production workloads. For specific deployment details, refer to your hosting platform's documentation.
 
-## License
+If you encounter any issues or have questions, feel free to open an issue in this repository or consult the project's documentation and community resources.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Thank you for using this project!
 
----
-
-For more information, please refer to the [Documentation](docs/) or contact the project maintainers.
 
