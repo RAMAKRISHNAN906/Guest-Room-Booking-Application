@@ -2,7 +2,7 @@
 
 # Guest Room Booking Application
 
-Guest is a room booking application designed for house owners who offer short-term accommodations and for customers looking to book rooms. The application provides an efficient way for house owners to manage their rooms and bookings while offering customers a seamless browsing and booking experience. Additionally, the application sends email notifications when a room is booked.
+Guest Room Booking Application Designed For House Owners Who Offer Short-Term Accommodations And For Customers Looking To Book Rooms. The Application Provides An Efficient Way For House Owners To Manage Their Rooms And Bookings While Offering Customers A Seamless Browsing And Booking Experience. Additionally, The Application Sends Email Notifications When a Room Is Booked.
 
 
 
@@ -11,7 +11,7 @@ Guest is a room booking application designed for house owners who offer short-te
 
 ## Mobile and Desktop Views
 
-Guest is designed to be fully responsive, providing an optimal experience across both mobile and desktop devices. You can view the application in action through the following videos:
+Guest Room Website Is Designed To Be Fully Responsive, Providing An Optimal Experience Across Both Mobile And Desktop Devices. You can view the application in action through the following videos:
 
 - **[Desktop View Video](https://drive.google.com/file/d/1Q3k4tGCdnWxqz6kz1uJPEr7DwKK1IXFT/view?usp=sharing)**
 - **[Mobile View Video](https://drive.google.com/file/d/1dn1Hwl-0zycAEmzA8dWin9zpKYLkz7ez/view?usp=sharing)**
