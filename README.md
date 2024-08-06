@@ -72,9 +72,15 @@ Gust allows house owners to manage room listings and bookings, and customers to 
   - Node.js
   - Express.js
   - MongoDB
+ 
+![image](https://github.com/user-attachments/assets/deea4c78-fcee-44d3-adc3-0e8693409eba)
+
 
 - **Email Notifications:**
   - EmailJS
+
+![download (5)](https://github.com/user-attachments/assets/de9ee05a-8d6f-4815-901d-be79a7b665c1)
+
 
 - **Authentication:** JWT (JSON Web Tokens)
 
