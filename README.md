@@ -65,6 +65,7 @@ Gust allows house owners to manage room listings and bookings, and customers to 
   - React
   - Bootstrap
   - JavaScript
+![image](https://github.com/user-attachments/assets/9d0022ce-45b9-4c60-b979-5c1728c1a411)
 
 - **Backend:**
   - Node.js
