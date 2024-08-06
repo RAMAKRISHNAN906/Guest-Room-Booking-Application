@@ -1,14 +1,14 @@
-# cartrabbit
+# CartRabbit
 
-# Gust Room Booking Application
+# Guest Room Booking Application
 
-Gust is a room booking application designed for house owners who offer short-term accommodations and for customers looking to book rooms. The application provides an efficient way for house owners to manage their rooms and bookings while offering customers a seamless browsing and booking experience. Additionally, the application sends email notifications when a room is booked.
+Guest is a room booking application designed for house owners who offer short-term accommodations and for customers looking to book rooms. The application provides an efficient way for house owners to manage their rooms and bookings while offering customers a seamless browsing and booking experience. Additionally, the application sends email notifications when a room is booked.
 
 ![ice-49907-64747375_3XL-478924](https://github.com/user-attachments/assets/57ee01cc-4d05-48f3-8355-a372c64dae49)
 
 ## Mobile and Desktop Views
 
-Gust is designed to be fully responsive, providing an optimal experience across both mobile and desktop devices. You can view the application in action through the following videos:
+Guest is designed to be fully responsive, providing an optimal experience across both mobile and desktop devices. You can view the application in action through the following videos:
 
 - **[Desktop View Video](https://drive.google.com/file/d/1Q3k4tGCdnWxqz6kz1uJPEr7DwKK1IXFT/view?usp=sharing)**
 - **[Mobile View Video](https://drive.google.com/file/d/1dn1Hwl-0zycAEmzA8dWin9zpKYLkz7ez/view?usp=sharing)**
@@ -27,7 +27,7 @@ These videos demonstrate the application’s user interface and functionality on
 
 ## Overview
 
-Gust allows house owners to manage room listings and bookings, and customers to browse and book rooms. Key features include:
+Guest allows house owners to manage room listings and bookings, and customers to browse and book rooms. Key features include:
 
 - **House Owners:**
   - Register and manage accounts.
