@@ -261,6 +261,37 @@ To use MongoDB for storing data, including user information, room details, and b
      
 ![image](https://github.com/user-attachments/assets/74c54898-bf5e-4553-87e4-0167b2d054aa)
 
+## Deployment Instructions
+
+To deploy and run this project, follow the instructions below for both development and production environments.
+
+### Development of backend
+
+For local development, you can use the following `npm` scripts:
+
+1. **Start the Backend**: Run the backend server with:
+   ```bash
+   npm run dev
+2. Start the Frontend: Run the frontend application with:
+  ```bash
+   npm run dev1
+````
+3. Start Additional Service (if applicable): Run any additional services with:
+  ```bash
+   npm run dev2
+```
+
+### Development of frontend
+To deploy the application for production, you'll typically want to build the frontend and backend, then serve them. Follow these steps:
+
+Build the Frontend: Create the production build of the frontend application. This step may vary depending on the frontend framework you are using. For example, with React, you might use:
+```bash
+npm run build
+```
+Start the Backend: Ensure the backend server is running. For production, you might use a command like:
+``bash
+npm start
+``
 
 ## Contributing
 
