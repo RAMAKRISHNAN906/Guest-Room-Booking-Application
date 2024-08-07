@@ -9,7 +9,7 @@ Guest Room Booking Application Designed For House Owners Who Offer Short-Term Ac
 ![image](https://github.com/user-attachments/assets/9f1d47c4-906c-4dae-bde6-857a5e6be97c)
 
 
-## Mobile and Desktop Views
+## Mobile and Desktop Views :
 
 Guest Room Website Is Designed To Be Fully Responsive, Providing An Optimal Experience Across Both Mobile And Desktop Devices. You can view the application in action through the following videos:
 
